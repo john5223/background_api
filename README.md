@@ -8,7 +8,9 @@ This is an example application to run an asynchronous REST api that can run long
 
 Dependencies
 ==============
+
 sudo apt-get install python-dev python-pip -y
+
 sudo pip install -r pip-requires.txt
 
 
