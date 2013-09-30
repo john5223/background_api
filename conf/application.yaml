@@ -1,0 +1,9 @@
+environment: dev
+api_server:
+    dev: &api_server
+        host: '127.0.0.1'
+        port: '8080'
+    staging: 
+        <<: *api_server
+    prod: 
+        <<: *api_server

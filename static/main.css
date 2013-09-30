@@ -1,0 +1,10 @@
+.content { margin: 50px 0 50px 0; }
+
+.jumbotron { padding: 30px 0 0 15px; 
+             background-color: #EDF3FA;
+             background-image: url('/static/img/masthead-small.jpg');
+             background-position: right bottom;
+             background-repeat: no-repeat;
+            }
+
+
